@@ -1,0 +1,42 @@
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\PR45_2019_Dejan_Kurdulija.exe.config
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\PR45_2019_Dejan_Kurdulija.exe
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\PR45_2019_Dejan_Kurdulija.pdb
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\Classes.dll
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\Classes.pdb
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\AddWindow.g.cs
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\MainWindow.g.cs
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\ViewWindow.g.cs
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\App.g.cs
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija_MarkupCompile.cache
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija_MarkupCompile.lref
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\AddWindow.baml
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\MainWindow.baml
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\ViewWindow.baml
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.g.resources
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.Properties.Resources.resources
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.csproj.GenerateResource.cache
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.exe
+C:\Users\Dejan\Desktop\HCI Vjezbanje\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.pdb
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\PR45_2019_Dejan_Kurdulija.exe.config
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\PR45_2019_Dejan_Kurdulija.exe
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\PR45_2019_Dejan_Kurdulija.pdb
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\Classes.dll
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\bin\Debug\Classes.pdb
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.csproj.AssemblyReference.cache
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\AddWindow.g.cs
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\MainWindow.g.cs
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\ViewWindow.g.cs
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\App.g.cs
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija_MarkupCompile.cache
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija_MarkupCompile.lref
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\AddWindow.baml
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\MainWindow.baml
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\ViewWindow.baml
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.g.resources
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.Properties.Resources.resources
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.csproj.GenerateResource.cache
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.csproj.CoreCompileInputs.cache
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.exe
+D:\Faking Faks\Treca godina\V semestar\Interakcija covjek racunar\Predmetni zadatak 1\PR45_2019_Dejan_Kurdulija\PR45_2019_Dejan_Kurdulija\obj\Debug\PR45_2019_Dejan_Kurdulija.pdb

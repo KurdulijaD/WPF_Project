@@ -1,0 +1,101 @@
+﻿<Window x:Class="PR45_2019_Dejan_Kurdulija.AddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR45_2019_Dejan_Kurdulija"
+        mc:Ignorable="d"
+        Title="AddWindow" SizeToContent="WidthAndHeight" WindowStyle="None" AllowsTransparency="True" Background="Transparent" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    <Canvas Width="750" Height="450">
+
+        <Canvas.Resources>
+            <DropShadowEffect x:Key="dropMouseOverShadowGreen" Color="LightGreen" Direction="90" Opacity="80"/>
+            <DropShadowEffect x:Key="dropMouseOverShadowRed" Color="Red" Direction="90" Opacity="80"/>
+        </Canvas.Resources>
+
+        <Path Stroke="White" StrokeThickness="2" Name="projPath" >
+            <Path.Fill>
+                <ImageBrush ImageSource="main_image.jpg"/>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="100, 0">
+                        <LineSegment Point="650,0"/>
+                        <ArcSegment Size="150, 150" RotationAngle="90" IsLargeArc="False" SweepDirection="Clockwise" Point="750, 100"/>
+                        <LineSegment Point="750, 350"/>
+                        <ArcSegment Size="150, 150" RotationAngle="90" IsLargeArc="False" SweepDirection="Clockwise" Point="650, 450"/>
+                        <LineSegment Point="100, 450"/>
+                        <ArcSegment Size="150, 150" RotationAngle="90" IsLargeArc="False" SweepDirection="Clockwise" Point="0, 350"/>
+                        <LineSegment Point="0, 100"/>
+                        <ArcSegment Size="150, 150" RotationAngle="90" IsLargeArc="False" SweepDirection="Clockwise" Point="100, 0"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+
+        <Label x:Name="labelNaziv" Content="Naziv:" Background="LightGreen" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="65" Foreground="Black" Canvas.Left="21" Canvas.Top="93"/>
+        <Label x:Name="labelAgencija" Content="Agencija:" Background="LightGreen" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="65" Foreground="Black" Canvas.Left="21" Canvas.Top="172"/>
+        <Label x:Name="labelCena" Content="Cena ( € ) :" Background="LightGreen" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="65" Foreground="Black" Canvas.Left="21" Canvas.Top="325"/>
+        <Label x:Name="LabelDatum" Content="Datum polaska:" Background="LightGreen" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="95" Foreground="Black" Canvas.Left="21" Canvas.Top="249"/>
+        <Label x:Name="labelOpis" Content="Opis:" Background="LightGreen" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="37" Foreground="Black" Canvas.Left="391" Canvas.Top="93" />
+        <Label x:Name="labelSlika" Content="Slika:" Background="LightGreen" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="37" Foreground="Black" Canvas.Left="391" Canvas.Top="325"/>
+        <TextBox x:Name="textBoxNaziv" HorizontalAlignment="Left" Height="28" Opacity="0.75" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180"  Canvas.Left="122" Canvas.Top="93" GotFocus="textBoxNaziv_GotFocus" LostFocus="textBoxNaziv_LostFocus"/>
+        <ComboBox x:Name="comboBoxAgencija" SelectedValue="Dizel" HorizontalAlignment="Left" Opacity="0.75" Height="28" Text="" VerticalAlignment="Top" Width="180"  Canvas.Left="122" Canvas.Top="172"/>
+        <TextBox x:Name="textBoxCena" HorizontalAlignment="Left" Height="28" Opacity="0.75" VerticalAlignment="Top" Width="88"  Canvas.Left="122" Canvas.Top="325" GotFocus="textBoxCena_GotFocus" LostFocus="textBoxCena_LostFocus" RenderTransformOrigin="0.5,1.107"/>
+        <Button x:Name="Browse" Content="Browse"  HorizontalAlignment="Left" Height="28"  VerticalAlignment="Top" Width="50" Foreground="Black" Background="White" Click="Browse_Click" Canvas.Left="391" Canvas.Top="362"/>
+        <Image Name="imgPhoto" Stretch="Fill" Height="125" Width="145" Canvas.Left="470" Canvas.Top="267"/>
+        <Label x:Name="labelNaslov" Content="Dodavanje destinacije" Background="LightGreen"  Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Top" Width="280" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontFamily="Agency FB" FontSize="35" Canvas.Left="240" Canvas.Top="10"/>
+        <Label x:Name="labelNazivGreska" Content="" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="180" FontSize="10.5" Foreground="Red"  Canvas.Left="122" Canvas.Top="121"/>
+        <Label x:Name="labelAgencijaGreska" Content="" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="180" FontSize="10.5" Foreground="Red" Canvas.Left="122" Canvas.Top="200"/>
+        <Label x:Name="labelCenaGreska" Content="" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="165" FontSize="10.5" Foreground="Red" Canvas.Left="122" Canvas.Top="353"/>
+        <Label x:Name="labelDatumGreska" Content="" HorizontalAlignment="Left" Height="26" VerticalAlignment="Top" Width="110" FontSize="10.5" Foreground="Red" Canvas.Left="122" Canvas.Top="279"/>
+        <Label x:Name="labelOpisGreska" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="118" Foreground="Red" Canvas.Left="391" Canvas.Top="251" RenderTransformOrigin="1.846,1.591"/>
+        <Label x:Name="labelSlikaGreska" Content="" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="107" FontSize="10.5" Foreground="Red" Canvas.Left="534" Canvas.Top="386"/>
+        <DatePicker x:Name="datePicker" Height="28" Width="110" VerticalAlignment="Top" HorizontalAlignment="Left" Canvas.Left="122" Canvas.Top="251"/>
+        <RichTextBox x:Name="rtbOpis" HorizontalAlignment="Left" Opacity="0.75" Height="100" VerticalAlignment="Top" Width="334" SelectionChanged="rtbOpis_SelectionChanged" Canvas.Left="391" Canvas.Top="162" TextChanged="rtbOpis_TextChanged"/>
+
+        <DockPanel Height="30" Width="310" Canvas.Left="415"  Canvas.Top="130">
+            <ToolBar DockPanel.Dock="Top" Margin="-25,0,0,0" >
+                <ToggleButton Command="EditingCommands.ToggleBold" Name="buttonBold" Content=" B "/>
+                <Separator/>
+                <ToggleButton Command="EditingCommands.ToggleItalic" Name="buttonItalic" Content=" I "/>
+                <Separator/>
+                <ToggleButton Command="EditingCommands.ToggleUnderline" Name="buttonUnderline" Content=" U "/>
+                <Separator/>
+                <Button x:Name="buttonColor" Content="Color" Click="buttonColor_Click"/>
+                <Separator/>
+                <ComboBox x:Name="cmbFontSize" Width="30" SelectionChanged="cmbFontSize_SelectionChanged"/>
+                <Separator/>
+                <ComboBox x:Name="cmbFontFamily" Width="76" SelectionChanged="cmbFontFamily_SelectionChanged" Height="21" Margin="0"/>
+                <Separator/>
+                <Label Content="Words:" />
+                <TextBox x:Name="textBoxWordsCount" Width="30" Text="" IsReadOnly="True"/>
+            </ToolBar>
+        </DockPanel>
+
+        <Button x:Name="buttonIzadji" Content="Izadji"  HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="157" Foreground="Black" Background="White" Click="buttonIzadji_Click" Canvas.Left="468" Canvas.Top="413">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Effect" Value="{StaticResource dropMouseOverShadowRed}"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <Button x:Name="buttonDodaj" Content="Dodaj"  HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="157" Background="White" Foreground="Black" Click="buttonDodaj_Click" Canvas.Left="105" Canvas.Top="413">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Effect" Value="{StaticResource dropMouseOverShadowGreen}"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+    </Canvas>
+</Window>
